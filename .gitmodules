@@ -1,3 +1,0 @@
-[submodule "lab3_starter"]
-	path = ~/ros_ws/src/forward_kinematics/src/lab3_starter
-	url = https://github.com/ucb-ee106/lab3_starter.git
