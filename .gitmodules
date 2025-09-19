@@ -1,0 +1,3 @@
+[submodule "lab3_starter"]
+	path = ~/ros_ws/src/forward_kinematics/src/lab3_starter
+	url = https://github.com/sawyer-assembly2025/docker_assembly2025/blob/master/.gitmodules
